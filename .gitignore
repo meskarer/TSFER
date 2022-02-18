@@ -1,0 +1,11 @@
+*.py[cod]
+*.log
+*.err
+*.out
+google_micro*/
+alibaba_indivis/
+concat/
+job_script/
+alibaba_trace/
+google_input/
+input/
